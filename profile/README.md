@@ -1,8 +1,8 @@
-# DD.xyz
+# Webacy - DD.xyz
 
 ## Overview
 
-**DD.xyz** is an application-layer safety platform dedicated to protecting users against scams, hacks, and mistakes across the blockchain. Our suite of tools and APIs empowers wallets, decentralized exchanges (DEXs), protocols, and applications to enhance security and provide a safer digital asset experience.
+**Webacy** builds digital asset risk intelligence and monitoring infrastructure for institutions and teams. Our APIs and applications help wallets, exchanges, fintechs, stablecoin issuers, asset managers, and protocols assess the security, compliance, and integrity of wallets, tokens, transactions, smart contracts, and protocols in real time.
 
 ## Table of Contents
 
@@ -13,15 +13,15 @@
 
 ## Documentation
 
-- **API Reference:** For detailed information on our APIs, including endpoints and response structures, refer to our [API Reference](https://webacy.readme.io/reference/webacy-api-overview).
+- **API Reference:** For detailed information on our APIs, including endpoints and response structures, refer to our [API Reference](https://docs.webacy.com/).
 
 ## Developer Portal
 
 To integrate DD.xyz's safety features into your platform:
 
-1. **Obtain an API Key:** Visit our [Developer Portal](https://developers.webacy.co/dashboard) to acquire your demo API key.
+1. **Obtain an API Key:** Visit our [Developer Portal](https://developers.webacy.co/) to acquire your demo API key.
 
-2. **Review Documentation:** Explore our [API Reference](https://webacy.readme.io/reference/webacy-api-overview)to understand integration steps and capabilities.
+2. **Review Documentation:** Explore our [API Reference](https://docs.webacy.com/) to understand integration steps and capabilities.
 
 3. **Integrate and Test:** Utilize our APIs to enhance your platform's security and conduct thorough testing to ensure seamless operation. When you're ready to upgrade to a production-level API key, contact us.
 
