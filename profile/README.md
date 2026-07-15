@@ -21,7 +21,7 @@ To integrate DD.xyz's safety features into your platform:
 
 1. **Obtain an API Key:** Visit our [Developer Portal](https://developers.webacy.co/) to acquire your demo API key.
 
-2. **Review Documentation:** Explore our [API Reference](https://docs.webacy.com/)to understand integration steps and capabilities.
+2. **Review Documentation:** Explore our [API Reference](https://docs.webacy.com/) to understand integration steps and capabilities.
 
 3. **Integrate and Test:** Utilize our APIs to enhance your platform's security and conduct thorough testing to ensure seamless operation. When you're ready to upgrade to a production-level API key, contact us.
 
